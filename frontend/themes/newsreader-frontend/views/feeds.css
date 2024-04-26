@@ -1,0 +1,20 @@
+.feedList {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.feedListChannel {
+    color: royalblue;
+    overflow: hidden;
+    display: list-item;
+    white-space: nowrap;
+}
+
+.feedListDetails {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.channelName {
+
+}
